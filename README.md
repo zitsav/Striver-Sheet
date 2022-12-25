@@ -1,3 +1,3 @@
 # Striver-Sheet
 
-Implimentations 16/50
+Implimentations 25/50
